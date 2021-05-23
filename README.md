@@ -63,10 +63,18 @@ It is acknowledged there are some players who cannot use a mouse or would prefer
 
 ## GAMEPLAY
 
+### HQ / Base Building
+
+#### I can't build all the rooms that I have researched
+
+Part of HQ management is selecting the right combinations of rooms with the crew slots and powerups they afford you. To change an old room to a newly researched one, select the room in the HQ screen, then remove remove all of the crew - once this has been done, a button to remove the room will become available. Click this to remove the room and then the space will be free for building again.
+
+
 ### Fusion of items
 
-Fusion can reward item xp and research points much faster than collecting the items directly.
+#### What is "Fusion"?
 
+Fusion merges one type of resource into another. It rewards you with experience and research points, which can be much faster than collecting the items directly during drilling operations.
 
 ### Nano Drills
 
@@ -105,7 +113,4 @@ No, Banana Drama and the other arcade games aren't compulsory.
 #### Where do I find the arcade games?
 
 These can be found by exploring the squares of each galaxy.
-
-
-
 
