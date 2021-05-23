@@ -116,3 +116,23 @@ No, Banana Drama and the other arcade games aren't compulsory.
 
 These can be found by exploring the squares of each galaxy.
 
+### Market
+
+#### Powerup Crates
+
+Powerup Crates are one time purchase unlocks.
+These will then spawn in the world while you're drilling.
+
+#### Stat Booster
+
+Stat Booster are one time purchase unlocks.
+These will grant you a permanent stat bonus on unlock.
+
+#### Nano Drill
+
+Nano Drills unlocks grant you one additional Nano Drill per unlock.
+For more information see [Nano Drills](#Nano-Drills)
+
+#### Boost Capacity & Chest Value
+
+Those upgrades are infinite and incremental. They grant you a bonus to either your Boost Capacity or Chest Value with each unlock.
