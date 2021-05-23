@@ -3,6 +3,8 @@
 
 This is the unofficial, work-in-progress FAQ for Galactic Mining Corp by Windybeard Games.
 
+**For filing bug reports or getting assistance in relation to an issue not covered in this FAQ, please visit the [GMC Steam Discussions](https://steamcommunity.com/app/1218500/discussions/)**.
+
 ## GRAPHICS
 
 ### The graphics look strange or the text is blurred/pixellated
@@ -32,7 +34,7 @@ Most music/SFX issues should have been resolved in Patch 2, released Sunday 23rd
 
 ### Where are save games located?
 
-Games save files are located in `Documents\GMC` wiht the filename ending `.arr`.
+Games save files are located in `Documents\GMC` with the filename ending `.arr`.
 
 
 ### My game isn't being saved!
@@ -43,7 +45,7 @@ This appears to be an issue with some instances of Windows's built-in security p
 
 - Open the  "Windows Security" App.
 - In the sidebar, click "Virus & Threat Protection"
-- Under "Ransomware Protection", click the text "Manage ransomware proection"
+- Under "Ransomware Protection", click the text "Manage ransomware protection"
 - If "Controlled folder access" is set to "On", click the text "Allow an app through Controlled folder access"
 - Click "+ Add an Allowed App"
 - Select "Recently blocked apps"
