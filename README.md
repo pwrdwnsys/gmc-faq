@@ -25,7 +25,7 @@ This appears to be an issue on Windows 10 systems with High DPI monitors. To res
 
 ### Sometimes sounds get louder, or sounds play even when volume is set to zero.
 
-This has been reported and acknowledged. It will be addressed in a future game patch.
+Most music/SFX issues should have been resolved in Patch 2, released Sunday 23rd March 2021.
 
 
 ## GAME SAVES
