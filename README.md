@@ -30,6 +30,13 @@ This appears to be an issue on Windows 10 systems with High DPI monitors. To res
 Most music/SFX issues should have been resolved in Patch 2, released Sunday 23rd March 2021.
 
 
+## LOCALISATION
+
+### Is GMC available in languages other than English? Are other languages planned?
+
+At launch, GMC will only be available in English. It is hoped that in future other languages may be supported, however there is no localisation work currently in progress. There is quite a large amount of text in the game that requires localisation/translation so this is not a small undertaking.
+
+
 ## GAME SAVES
 
 ### Where are save games located?
@@ -71,8 +78,17 @@ It is acknowledged there are some players who cannot use a mouse or would prefer
 
 Part of HQ management is selecting the right combinations of rooms with the crew slots and powerups they afford you. To change an old room to a newly researched one, select the room in the HQ screen, then remove remove all of the crew - once this has been done, a button to remove the room will become available. Click this to remove the room and then the space will be free for building again.
 
+### Cores
 
-### Fusion of items
+#### Are there enough cores to unlock all of the nodes in the Coretrium or do I have to choose carefully?
+
+There are more than enough cores available to collect in-game to unlock every single node in the Coretrium.
+
+### Tiles and Items
+
+#### Why don't tiles keep accumulating XP and auto-level?
+
+This is an intentional game mechanic. Level ups for each tile and item need to be manually acknowledged and activated through the relevant Collection tabs. Any additional XP accumulated while waiting for a tile to be unlocked are discarded, although the material itself is retained (for research or use in crew contracts).
 
 #### What is "Fusion"?
 
@@ -83,6 +99,10 @@ Fusion merges one type of resource into another. It rewards you with experience 
 #### Can I deploy nano drills to different drill sites at the same time?
 
 You can deploy your nano drills to one site at a time - they are deployed as a single group to a drill site. The more drills in the deployment, the more resources that are brought back each time.
+
+#### I am not getting tile XP from the nano drills!
+
+You only gain experience points (XP) from tiles drilled/destroyed yourself during a piloted "Drill" mission. The automated nano drills do not gather XP - only gold, tile materials, and items.
 
 
 ### Unlocking Crew
@@ -102,7 +122,7 @@ Gravity can be thought of as a difficulty level - the higher the 'G' level, the 
 
 #### Can monsters be killed?
 
-Yes, triggering a well-timed TNT crate will kill most monsters that fall in its radius of explosion.
+Yes, triggering a well-timed TNT crate will kill most monsters that fall in its radius of explosion. Some monsters may also die on contact with a core.
 
 
 ### Arcade Mini Games 
@@ -120,18 +140,15 @@ These can be found by exploring the squares of each galaxy.
 
 #### Powerup Crates
 
-Powerup Crates are one time purchase unlocks.
-These will then spawn in the world while you're drilling.
+Powerup Crates are one-time purchase unlocks, and can be discovered scattered around drill sites during piloted drill missions.
 
 #### Stat Booster
 
-Stat Booster are one time purchase unlocks.
-These will grant you a permanent stat bonus on unlock.
+Stat Boosters are one-time purchase unlocks. These will grant you a permanent stat bonus on unlock.
 
 #### Nano Drill
 
-Nano Drills unlocks grant you one additional Nano Drill per unlock.
-For more information see [Nano Drills](#Nano-Drills)
+Nano Drills unlocks grant you one additional Nano Drill per unlock. For more information see [Nano Drills](#Nano-Drills)
 
 #### Boost Capacity & Chest Value
 
