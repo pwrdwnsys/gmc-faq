@@ -1,6 +1,8 @@
 
 # Galactic Mining Corp FAQ (Unofficial)
 
+**2024-08-23: NOTICE - This project has been archived and no further updates will be made.**
+
 This is the unofficial, work-in-progress FAQ for Galactic Mining Corp by Windybeard Games.
 
 **For filing bug reports or getting assistance in relation to an issue not covered in this FAQ, please visit the [GMC Steam Discussions](https://steamcommunity.com/app/1218500/discussions/)**.
